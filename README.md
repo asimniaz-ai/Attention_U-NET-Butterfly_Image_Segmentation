@@ -4,11 +4,11 @@ This model incorporates self-attention gating modules to the U-Net architecture.
 
 This repository contains code for the Butterfly images Segmentation using Attention U-Net with PyTorch on the LEADS BUTTERFLY dataset.
 
-##NVIDIA 3090
-##CUDA 11.3
-##Python 3.7
-##PyTorch (conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia)
-##[LEADS BUTTERFLY](http://www.josiahwang.com/dataset/leedsbutterfly/)
+##NVIDIA 3090\
+##CUDA 11.3\
+##Python 3.7\
+##PyTorch (conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia)\
+##[LEADS BUTTERFLY](http://www.josiahwang.com/dataset/leedsbutterfly/)\
 
 This dataset contains images and textual descriptions for ten categories (species) of butterflies. The image dataset comprises 832 images in total, with the distribution ranging from 55 to 100 images per category.
 
