@@ -2,7 +2,6 @@
 
 import torch
 import torch.nn as nn
-# PyTorch TensorBoard support
 
 """Creating Convolutional Block"""
 class conv_block(nn.Module):
