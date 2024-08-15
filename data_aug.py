@@ -1,4 +1,4 @@
-# This file performs data augmentation
+#  data augmentation
 import os
 import numpy as np
 import cv2
