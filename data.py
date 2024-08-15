@@ -1,4 +1,4 @@
-#It will help us build pipeline for the trianing
+
 
 import os
 import numpy as np
