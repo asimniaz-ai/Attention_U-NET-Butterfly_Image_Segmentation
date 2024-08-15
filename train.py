@@ -52,7 +52,6 @@ def evaluate(model, loader, loss_fn, device):
     return epoch_loss
 
 if __name__ == "__main__":
-    """ Seeding """
     seeding(42)
 
     """ Directories """
