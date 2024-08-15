@@ -2,7 +2,6 @@ import os
 os.environ['CUDA_LAUNCH_BLOCKING'] = "1"
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
-#import os
 import time
 from glob import glob
 
