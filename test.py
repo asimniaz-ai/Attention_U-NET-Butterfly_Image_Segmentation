@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 from model import build_unet
 from utils import create_dir, seeding
 
-# PyTorch TensorBoard support
+
 from torch.utils.tensorboard import SummaryWriter
 
 def calculate_metrics(y_true, y_pred):
